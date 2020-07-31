@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio de Codificacion I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio de Codificacion IV-V", "Ejercicio de Codificacion IV-V\Ejercicio de Codificacion IV-V.csproj", "{C00C984A-F59F-4134-A5FD-C8B6C9C46A76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio de Codificacion V-I", "Ejercicio de Codificacion V-I\Ejercicio de Codificacion V-I.csproj", "{A46800DB-3570-491F-8184-A819BE6D7910}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{C00C984A-F59F-4134-A5FD-C8B6C9C46A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C00C984A-F59F-4134-A5FD-C8B6C9C46A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C00C984A-F59F-4134-A5FD-C8B6C9C46A76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46800DB-3570-491F-8184-A819BE6D7910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46800DB-3570-491F-8184-A819BE6D7910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46800DB-3570-491F-8184-A819BE6D7910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46800DB-3570-491F-8184-A819BE6D7910}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

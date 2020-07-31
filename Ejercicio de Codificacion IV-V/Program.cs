@@ -12,7 +12,7 @@ namespace Ejercicio_de_Codificacion_IV_V
         {
             Console.WriteLine("===========> TABLA DE MULTIPLICACION <======== \n");
 
-            for (int i = 1; i <= 10; i++)
+            for (int i = 1; i <= 12; i++)
             {
                 Console.WriteLine("\nTabla del {0}\n", i);
                 for (int x = 1; x <= 10; x++) { 
