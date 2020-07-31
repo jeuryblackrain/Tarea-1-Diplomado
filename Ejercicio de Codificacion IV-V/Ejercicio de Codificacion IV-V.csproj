@@ -7,7 +7,7 @@
     <ProjectGuid>{C00C984A-F59F-4134-A5FD-C8B6C9C46A76}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ejercicio_de_Codificacion_IV_V</RootNamespace>
-    <AssemblyName>Ejercicio_de_Codificacion_IV_V</AssemblyName>
+    <AssemblyName>Ejercicio de Codificacion IV-V</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
