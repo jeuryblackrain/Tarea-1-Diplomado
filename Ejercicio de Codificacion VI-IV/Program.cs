@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,7 +11,7 @@ namespace Ejercicio_de_Codificacion_VI_IV
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("===========> LLENANDO UN VECTOR <======== \n");
+            Console.WriteLine("===========> SUMA DE DOS VECTORES <======== \n");
 
             int[,] vectorA = new int[2,2];
             int[,] vectorB = new int[2,2];
@@ -35,7 +36,7 @@ namespace Ejercicio_de_Codificacion_VI_IV
                     vectorB[z, c] = Convert.ToInt32(Console.ReadLine());
                 }
             }
-            //Suma los Vectores A y B
+            
             for (int o = 0; o < 2; o++)
             {
                 for (int c = 0; c < 2; c++)
@@ -47,13 +48,14 @@ namespace Ejercicio_de_Codificacion_VI_IV
 
             Console.Clear();
             //Lee Los valores en el vector
-            Console.Write("===========> VECTOR A <========");
+            
+          Console.Write("===========> VECTOR A <========");
             for (int x = 0; x < 2; x++)
             {
                 Console.WriteLine("");
                 for (int p = 0; p < 2; p++)
                 {
-                    Console.Write("|" + vectorA[x,p] + "| ");            
+                    Console.Write("  {0}  ",vectorA[x,p]);            
                 }
             }
 
