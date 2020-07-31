@@ -1,0 +1,6 @@
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejericio de Codificacion IV-II\bin\Debug\Ejericio de Codificacion IV-II.exe.config
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejericio de Codificacion IV-II\bin\Debug\Ejericio de Codificacion IV-II.exe
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejericio de Codificacion IV-II\bin\Debug\Ejericio de Codificacion IV-II.pdb
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejericio de Codificacion IV-II\obj\Debug\Ejericio de Codificacion IV-II.csproj.CoreCompileInputs.cache
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejericio de Codificacion IV-II\obj\Debug\Ejericio de Codificacion IV-II.exe
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejericio de Codificacion IV-II\obj\Debug\Ejericio de Codificacion IV-II.pdb

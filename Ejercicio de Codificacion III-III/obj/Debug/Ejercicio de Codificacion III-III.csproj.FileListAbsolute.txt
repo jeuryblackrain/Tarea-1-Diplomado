@@ -1,0 +1,7 @@
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion III-III\bin\Debug\Ejercicio de Codificacion III-III.exe.config
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion III-III\bin\Debug\Ejercicio de Codificacion III-III.exe
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion III-III\bin\Debug\Ejercicio de Codificacion III-III.pdb
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion III-III\obj\Debug\Ejercicio de Codificacion III-III.csprojAssemblyReference.cache
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion III-III\obj\Debug\Ejercicio de Codificacion III-III.csproj.CoreCompileInputs.cache
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion III-III\obj\Debug\Ejercicio de Codificacion III-III.exe
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion III-III\obj\Debug\Ejercicio de Codificacion III-III.pdb

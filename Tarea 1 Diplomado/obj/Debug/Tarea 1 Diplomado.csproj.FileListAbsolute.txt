@@ -1,0 +1,7 @@
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Tarea 1 Diplomado\bin\Debug\Tarea 1 Diplomado.exe.config
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Tarea 1 Diplomado\bin\Debug\Tarea 1 Diplomado.exe
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Tarea 1 Diplomado\bin\Debug\Tarea 1 Diplomado.pdb
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Tarea 1 Diplomado\obj\Debug\Tarea 1 Diplomado.csprojAssemblyReference.cache
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Tarea 1 Diplomado\obj\Debug\Tarea 1 Diplomado.csproj.CoreCompileInputs.cache
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Tarea 1 Diplomado\obj\Debug\Tarea 1 Diplomado.exe
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Tarea 1 Diplomado\obj\Debug\Tarea 1 Diplomado.pdb
