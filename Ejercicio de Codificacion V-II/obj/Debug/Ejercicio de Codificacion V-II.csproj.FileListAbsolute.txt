@@ -1,0 +1,7 @@
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion V-II\bin\Debug\Ejercicio de Codificacion V-II.exe.config
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion V-II\bin\Debug\Ejercicio de Codificacion V-II.exe
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion V-II\bin\Debug\Ejercicio de Codificacion V-II.pdb
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion V-II\obj\Debug\Ejercicio de Codificacion V-II.csprojAssemblyReference.cache
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion V-II\obj\Debug\Ejercicio de Codificacion V-II.csproj.CoreCompileInputs.cache
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion V-II\obj\Debug\Ejercicio de Codificacion V-II.exe
+C:\Users\JeuryBlackRain\source\repos\Tarea 1 Diplomado\Ejercicio de Codificacion V-II\obj\Debug\Ejercicio de Codificacion V-II.pdb
